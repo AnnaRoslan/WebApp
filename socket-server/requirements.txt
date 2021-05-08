@@ -1,0 +1,13 @@
+Flask==1.1.2
+Flask-Session
+gunicorn==19.9.0
+authlib>=0.14.1
+flask_hal
+flask_cors
+python.dotenv
+redis
+requests
+bcrypt
+PyJWT
+Flask-SocketIO
+flask_sockets

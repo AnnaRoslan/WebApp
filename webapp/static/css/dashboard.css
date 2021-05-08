@@ -1,0 +1,39 @@
+.table {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.new {
+    text-align: center;
+    margin: 1rem;
+    color: green;
+}
+
+.new_a {
+    color: green;
+}
+
+.form {
+    max-width: 20rem;
+    align-content: center;
+    margin: 1rem;
+}
+
+.form-group {
+    border-color: grey;
+}
+
+.form-control-red {
+    border-color: red;
+}
+
+.small {
+    color: red;
+}
+
+.button {
+    color: black;
+    background-color: #e7b720;
+}
